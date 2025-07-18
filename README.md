@@ -70,6 +70,16 @@ Validation checks that all nodes are connected.
 
 Displays success or error message based on validation.
 
+
+
+## ⚠️🚨 Attention
+
+🟥🟨🟥🟨 **IMPORTANT NOTICE:** 🟥🟨🟥🟨
+
+> 🟡 **Please use a _desktop or laptop_ for this project.**  
+> 🔴 **Using a _mobile device_ is _not recommended_** as it may **not fully support** the drag-and-drop interface and canvas resizing used in the **Chatbot Flow Builder**.
+
+
 ## 📸 Screenshots
 
 Add screenshots here for clarity
