@@ -37,17 +37,6 @@ npm install
 npm run dev
 ```
 
-src/
-│
-├── components/
-│ ├── FlowBuilder.jsx # Main component managing flow state & React Flow
-│ ├── Header.jsx # App header with save button & status
-│ ├── NodesPanel.jsx # Sidebar for adding nodes
-│ ├── SettingsPanel.jsx # Sidebar for editing node properties
-│ └── nodes/
-│ └── TextNode.jsx # Custom node component for message nodes
-│
-└── main.jsx # Entry point
 
 ## 🧑‍💻 Usage
 
@@ -106,6 +95,4 @@ Add screenshots here for clarity
 
 ---
 
-### Saving flow with validation
 
-![Saving Flow Screenshot](./screenshots/save-flow.png)
