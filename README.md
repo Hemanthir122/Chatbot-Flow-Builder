@@ -27,10 +27,6 @@ A **clean, extensible chatbot flow builder** using **React + React Flow**, allow
 
 ## ⚙️ Getting Started
 
-### Prerequisites
-
-- Node.js (v16+)
-- npm
 
 ### Installation
 
@@ -91,19 +87,22 @@ Add screenshots here for clarity
 
 ### Drag & drop node on canvas
 
-![Drag & Drop Screenshot](./screenshots/drag-drop.png)
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/ad142b78-86b3-4d59-bebd-ae5dacd824d5" />
+
 
 ---
 
 ### Connecting nodes
 
-![Connecting Nodes Screenshot](./screenshots/connect-nodes.png)
+<img width="1897" height="906" alt="image" src="https://github.com/user-attachments/assets/7c9eebee-44ce-43a1-b5ba-b3403a2f677b" />
+
 
 ---
 
 ### Editing node in the Settings Panel
 
-![Editing Node Screenshot](./screenshots/edit-node.png)
+<img width="1912" height="917" alt="image" src="https://github.com/user-attachments/assets/b8eb4c76-c07b-496c-9bc7-24e6dee84e5b" />
+
 
 ---
 
